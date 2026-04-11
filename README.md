@@ -73,12 +73,11 @@ Hi 👋, I'm **Yamuna Rani**
      ═══════════════════════════════════════════════════════ -->
 <div align="center">
  
-*"The best time to start was yesterday. The second best time is now."*
+
  
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
  
-⭐ **If any of my projects helped you, consider starring the repo — it means a lot!**
- 
+
 </div>
  
 <!-- 
