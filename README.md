@@ -66,6 +66,28 @@ Hi 👋, I'm **Yamuna Rani**
 
 <!-- ═══════════════════════════════════════ CONNECT ══ -->
 
+<b>📬 Let's Connect</b>
+
+<br/>
+<sup>Open to internships &nbsp;·&nbsp; collaborations &nbsp;·&nbsp; hackathons</sup>
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/yamuna-rani321">
+  <img src="https://img.shields.io/badge/LinkedIn-Yamuna%20Rani%20R-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/Yamuna_Rani_R/">
+  <img src="https://img.shields.io/badge/LeetCode-Yamuna__Rani__R-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
+<a href="mailto:yamunarani1610@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-yamunarani1610%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+
+
+
+</div>
 
 
 <!-- ═══════════════════════════════════════════════════════
