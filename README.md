@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<!-- Badges -->
+
 
 ![Student](https://img.shields.io/badge/Status-1st%20Year%20Student-blue?style=flat-square&logo=graduation-cap)
 ![AI/ML](https://img.shields.io/badge/Department-AIML-orange?style=flat-square&logo=robot)
@@ -68,7 +68,6 @@
 
 <br/>
 
-<!-- <img src="https://leetcode-badge-showcase.vercel.app/api?username=Yamuna_Rani_R&theme=dark" alt="LeetCode Badges"/> -->
 
 </div>
 <br>
