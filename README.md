@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated Header -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yamuna%20Rani%20R&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20AIML%20Enthusiast&descSize=18&descAlignY=58" width="100%"/>
 
 <!-- Typing Animation -->
