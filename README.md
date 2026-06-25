@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+I'm+Yamuna+Rani+%F0%9F%91%8B;1st+Year+AIML+Student+%F0%9F%A4%96;Future+AI+Engineer+%F0%9F%9A%80;Building+the+Future+with+Intelligence+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+I'm+Yamuna+Rani+%F0%9F%91%8B;2nd+Year+AIML+Student+%F0%9F%A4%96;Future+AI+Engineer+%F0%9F%9A%80;Building+the+Future+with+Intelligence+%F0%9F%A7%A0" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -122,10 +122,8 @@
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%A4%9D&fontSize=24&fontColor=fff&animation=twinkling" width="100%"/>
 
-*"The best way to predict the future is to create it." — Alan Kay*
+
 
 
 </div>
