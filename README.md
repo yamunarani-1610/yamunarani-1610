@@ -12,7 +12,7 @@
 
 
 
-![Student](https://img.shields.io/badge/Status-1st%20Year%20Student-blue?style=flat-square&logo=graduation-cap)
+![Student](https://img.shields.io/badge/Status-2nd%20Year%20Student-blue?style=flat-square&logo=graduation-cap)
 ![AI/ML](https://img.shields.io/badge/Department-AIML-orange?style=flat-square&logo=robot)
 ![Open to Learn](https://img.shields.io/badge/Open%20To-Learning%20%26%20Collaboration-purple?style=flat-square)
 
@@ -32,7 +32,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
+<!-- <div align="center">
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -51,6 +51,36 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+
+</div> -->
+## 💻 Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css&theme=dark" />
+
+</div>
+
+
+
+
+## 🌐 Web Dev
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+</div>
+
+
+## 🛠️ Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,jupyter&theme=dark" />
+<br><br>
+
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=000000)
 
 </div>
 
