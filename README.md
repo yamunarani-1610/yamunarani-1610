@@ -1,92 +1,44 @@
-<div align="center">
+<div>
 
+# Hi👋, I'm Yamuna Rani R
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yamuna%20Rani%20R&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20AIML%20Enthusiast&descSize=18&descAlignY=58" width="100%"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+I'm+Yamuna+Rani+%F0%9F%91%8B;2nd+Year+AIML+Student+%F0%9F%A4%96;Future+AI+Engineer+%F0%9F%9A%80;Building+the+Future+with+Intelligence+%F0%9F%A7%A0" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-
-
-![Student](https://img.shields.io/badge/Status-2nd%20Year%20Student-blue?style=flat-square&logo=graduation-cap)
-![AI/ML](https://img.shields.io/badge/Department-AIML-orange?style=flat-square&logo=robot)
-![Open to Learn](https://img.shields.io/badge/Open%20To-Learning%20%26%20Collaboration-purple?style=flat-square)
 
 </div>
 
+## About Me
+
+I'm **Yamuna Rani R**, a second-year **B.Tech Artificial Intelligence and Machine Learning** student at **Bannari Amman Institute of Technology**, focused on becoming a skilled **AI/ML Engineer**.
+
+I enjoy exploring **Artificial Intelligence, Machine Learning, Full Stack Development, and Software Engineering** while continuously strengthening my technical skills through hands-on projects and hackathons.
+
+Driven by curiosity and a passion for learning, I strive to build **practical solutions, write clean and maintainable code, solve meaningful problems, and continuously grow as an engineer**.
 
 
-## 🚀 What I'm Up To
+## Tech Stack
 
-- 🧠 **Learning** the foundations of Machine Learning & Deep Learning
-- 🐍 **Coding** in Python every day — one algorithm at a time
-- 📊 **Exploring** Data Science, Neural Networks & Computer Vision
-- 🔍 **Curious** about NLP, Generative AI, and LLMs
-- 🌱 **Growing** — from a student to an AI innovator
+**Languages**
 
+<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css" alt="Languages" />
 
+**Frontend**
 
-## 🛠️ Tech Stack & Tools
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite" alt="Frontend" />
 
-<!-- <div align="center">
+**Backend**
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
 
-### AI/ML Libraries (Learning 🌱)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**Database**
 
-### Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database" />
 
-</div> -->
-## 💻 Programming Languages
+**Development Tools**
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools" /> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" height="28" />
 
-<img src="https://skillicons.dev/icons?i=python,c,js,html,css&theme=dark" />
+<br>
 
-</div>
-
-
-
-
-## 🌐 Web Dev
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-
-</div>
-
-
-## 🛠️ Tools & Platforms
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,jupyter&theme=dark" />
-<br><br>
-
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=000000)
-
-</div>
-
-
-
-## 🧠 LeetCode Stats
+##  LeetCode Status
 
 <div align="center">
 
@@ -102,28 +54,14 @@
 </div>
 <br>
 
+## Connect With Me
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamuna-rani-7ab091392)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yamunarani-1610)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yamuna_Rani_R/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yamunaravi322@gmail.com)
-
-</div>
-
-
-
-<br>
-
-
-
-<div align="center">
-
-
-
-
-
-</div>
+<p>
+<a href="https://github.com/yamunarani-1610" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/yamuna-rani-7ab091392" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
+&nbsp;
+<a href="https://leetcode.com/u/Yamuna_Rani_R/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" height="40" /></a>
+&nbsp;
+<a href="mailto:yamunarani1610@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" /></a>
+</p>
