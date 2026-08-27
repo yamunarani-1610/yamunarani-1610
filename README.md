@@ -11,7 +11,7 @@ I'm **Yamuna Rani R**, a second-year **B.Tech Artificial Intelligence and Machin
 
 I enjoy exploring **Artificial Intelligence, Machine Learning, Full Stack Development, and Software Engineering** while continuously strengthening my technical skills through hands-on projects and hackathons.
 
-Driven by curiosity and a passion for learning, I strive to build **practical solutions, write clean and maintainable code, solve meaningful problems, and continuously grow as an engineer**.
+Driven by curiosity and a passion for learning, I strive to build **practical solutions, write clean and maintainable code, solve meaningful problems, and continuously grow as  engineer**.
 
 
 ## Tech Stack
