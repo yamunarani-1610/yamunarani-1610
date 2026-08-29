@@ -9,7 +9,7 @@
 
 I'm **Yamuna Rani R**, a second-year **B.Tech Artificial Intelligence and Machine Learning** student at **Bannari Amman Institute of Technology**, focused on becoming a skilled **AI/ML Engineer**.
 
-I enjoy exploring **Artificial Intelligence, Machine Learning, Full Stack Development, and Software Engineering** while continuously strengthening my technical skills through hands-on projects and hackathons.
+I enjoy exploring **Artificial Intelligence, Machine Learning, Full Stack Development, and Software Engineering** while continuously strengthen my technical skills through hands-on projects and hackathons.
 
 Driven by curiosity and a passion for learning, I strive to build **practical solutions, write clean and maintainable code, solve meaningful problems, and continuously grow as  engineer**.
 
