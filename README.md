@@ -32,7 +32,7 @@ Driven by curiosity and a passion for learning, I strive to build **practical so
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database" />
 
-**Development Tool**
+**Development Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools" /> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" height="28" />
 
