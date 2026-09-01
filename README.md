@@ -38,7 +38,7 @@ Driven by curiosity and a passion for learning, I strive to build **practical so
 
 <br>
 
-##  LeetCode Status
+##  LeetCode Stats
 
 <div align="center">
 
