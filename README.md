@@ -2,7 +2,6 @@
 
 # Hi👋, I'm Yamuna Rani R
 
-
 </div>
 
 ## About Me
