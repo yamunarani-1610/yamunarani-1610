@@ -1,6 +1,5 @@
 <div>
 
-
 # Hi👋, I'm Yamuna Rani R
 
 </div>
@@ -26,7 +25,7 @@ Driven by curiosity and a passion for learning, I strive to build **practical so
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=spring" alt="Backend" />
 
 **Database**
 
